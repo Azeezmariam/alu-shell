@@ -1,2 +1,2 @@
-# alu-shell
-Lola is a girl
+# !/bin/bash
+pwd
