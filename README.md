@@ -1,2 +1,1 @@
-# alu-shell
-0-current_working_directory
+# These are my scripts for shell 
